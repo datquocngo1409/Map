@@ -10,7 +10,7 @@ import Account from './src/component/home/account';
 import Driver from './src/component/home/driver';
 import Friend from './src/component/home/communication/friend';
 import Group from './src/component/home/group';
-import MapHome from './src/component/home/map';
+import MapHome from './src/component/home/map/map';
 import Setting from './src/component/home/setting';
 import Communication from './src/component/home/communication';
 import Family from './src/component/home/communication/family';
